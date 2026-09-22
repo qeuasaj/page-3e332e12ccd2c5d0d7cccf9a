@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j8k9ve.cn/sitemap.xml
